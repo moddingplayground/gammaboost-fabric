@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "package": "net.moddingplayground.gammaboost.mixin",
+  "client": [
+    "client.LightmapTextureManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

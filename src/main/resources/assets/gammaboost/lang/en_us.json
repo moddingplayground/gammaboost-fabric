@@ -1,0 +1,7 @@
+{
+  "mod.gammaboost.name": "Gamma Boost",
+  "mod.gammaboost.contact.discord": "Discord",
+
+  "command.gammaboost:config.toggle": "Toggled Gamma Boost to %s",
+  "command.gammaboost:config.reload": "Reloaded Gamma Boost config"
+}
